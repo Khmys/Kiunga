@@ -1,0 +1,2 @@
+Pyrogram==2.0.106
+feedfinder2==0.0.4
